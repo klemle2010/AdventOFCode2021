@@ -1,4 +1,3 @@
-const { count } = require('console');
 var fs = require('fs');
 
 function GetData(fileName, seperator)
